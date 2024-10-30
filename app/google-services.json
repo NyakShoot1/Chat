@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734063618025",
+    "project_id": "chat-e4493",
+    "storage_bucket": "chat-e4493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734063618025:android:daf09a603f1abc0c63cd78",
+        "android_client_info": {
+          "package_name": "com.nyakshoot.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAem71k8B18mG1EfukEp6JEWH9VrKhPmNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
